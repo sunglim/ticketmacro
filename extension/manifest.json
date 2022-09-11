@@ -1,0 +1,21 @@
+﻿{
+  "manifest_version": 2,
+  "name": "__MSG_appName__",
+  "version": "1.8",
+  "default_locale": "en",
+  "description": "__MSG_appDesc__",
+  "content_scripts": [ {
+    "matches": [ "https://etk.srail.kr/*" ],
+    "js": [ "replay.js" ],
+    "run_at": "document_end"
+  } ],
+  "permissions": [
+    "management",
+    "https://etk.srail.kr/*"
+  ],
+  "icons": {
+    "18": "fly.png",
+    "24": "fly.png",
+    "48": "fly.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "appName": {
+    "message": "Youtube Oto Tekrar",
+    "description": "Eklenti adı."
+  },
+  "appDesc": {
+    "message": "Çok basit youtube otomatik tekrarlayıcı",
+    "description": "Extension desc."
+  },
+  "timesAutoReplayed": {
+    "message": "Tekrar",
+    "description": "Tekrarlama sayısı"
+  },
+  "OptionSave": {
+    "message": "Ayarlar Kaydedildi.",
+    "description": "Ayarlar Durum Mesajı"
+  },
+  "ReplayCheck": {
+    "message": "Tekrarlayıcı Kontrolü",
+    "description": "Ayarlar Başlık"
+  },
+  "optionAutoReplay": {
+    "message": "Otomatik Tekrar",
+    "description": "Ayarlar kontrol mesajı"
+  },
+  "buttonSaveOption": {
+    "message": "Ayarları Kaydet",
+    "description": "Buton mesajı"
+  }
+}
